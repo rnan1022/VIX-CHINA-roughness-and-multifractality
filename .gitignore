@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Licensed raw vendor files must not be committed without permission.
+data/raw/*
+!data/raw/README.md
+data_processed/*.csv
+!data_processed/README.md
+
+# LaTeX intermediates
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Local reruns
+outputs/reproduced/

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated manuscript."
+title: "Roughness and multifractality of China's implied volatility: evidence from a newly constructed daily VIX"
+authors:
+  - family-names: Rao
+    given-names: Nan
+year: 2026
+version: "1.0.0"
+type: software
+abstract: "Code and processed data for a daily China VIX constructed from SSE 50ETF options and CFFEX CSI 300 index options, with DFA, MF-DFA and economic analyses."
+keywords:
+  - China VIX
+  - implied volatility
+  - rough volatility
+  - multifractality
+  - option markets
